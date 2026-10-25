@@ -134,9 +134,6 @@ Live public metrics fetched from GitHub's public API for [**@Manohar25-cmd**](ht
 <div align="center">
 
   <!-- LIVE PUBLIC METRICS BAR (STARS, REPOSITORIES, FOLLOWERS) -->
-  <!-- Note: Total Public Stars uses Shields.io's native user-stars aggregator (affiliations=OWNER). -->
-  <!-- When the included GitHub Actions workflow (.github/workflows/update-github-stats.yml) is active, -->
-  <!-- it also maintains a verified JSON endpoint at .github/stats/stars.json for zero-rate-limit accuracy. -->
   <p>
     <a href="https://github.com/Manohar25-cmd?tab=repositories">
       <img
@@ -168,19 +165,19 @@ Live public metrics fetched from GitHub's public API for [**@Manohar25-cmd**](ht
   </a>
   -->
 
-  <!-- GITHUB OVERVIEW STATS & TOP LANGUAGES CARDS -->
+  <!-- GITHUB OVERVIEW STATS & TOP LANGUAGES CARDS (ACTIVE EXTENDED INSTANCE) -->
   <p>
     <a href="https://github.com/Manohar25-cmd">
       <img
         height="175"
-        src="https://github-readme-stats.vercel.app/api?username=Manohar25-cmd&show_icons=true&bg_color=101827&hide_border=false&border_color=1E293B&title_color=5EEAD4&icon_color=7AA2F7&text_color=E2E8F0&border_radius=8"
+        src="https://github-stats-extended.vercel.app/api?username=Manohar25-cmd&show_icons=true&bg_color=101827&hide_border=false&border_color=1E293B&title_color=5EEAD4&icon_color=7AA2F7&text_color=E2E8F0&border_radius=8"
         alt="Manohar25-cmd's GitHub Overview Statistics (Stars, Commits, PRs, Issues)"
       />
     </a>
     <a href="https://github.com/Manohar25-cmd?tab=repositories">
       <img
         height="175"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohar25-cmd&layout=compact&langs_count=8&bg_color=101827&hide_border=false&border_color=1E293B&title_color=5EEAD4&text_color=E2E8F0&border_radius=8"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Manohar25-cmd&layout=compact&langs_count=8&bg_color=101827&hide_border=false&border_color=1E293B&title_color=5EEAD4&text_color=E2E8F0&border_radius=8"
         alt="Manohar25-cmd's Top Programming Languages by Public Repository Code Volume"
       />
     </a>
@@ -192,7 +189,7 @@ Live public metrics fetched from GitHub's public API for [**@Manohar25-cmd**](ht
 
 ## Contribution Activity & Consistency
 
-Tracking commit consistency, daily contribution streaks, and recent 31-day public repository events (commits, pull requests, issues, and code reviews).
+Tracking commit consistency, daily contribution streaks, and public repository contribution activity over time.
 
 <div align="center">
 
@@ -206,23 +203,25 @@ Tracking commit consistency, daily contribution streaks, and recent 31-day publi
     </a>
   </p>
 
-  <!-- 31-DAY CONTRIBUTION ACTIVITY GRAPH -->
+  <!-- CONTRIBUTION ACTIVITY GRAPH & PROFILE DETAILS CARD -->
   <p>
     <a href="https://github.com/Manohar25-cmd">
       <img
         width="96%"
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Manohar25-cmd&bg_color=101827&color=94A3B8&line=7AA2F7&point=5EEAD4&area=true&area_color=5EEAD4&hide_border=false&border_color=1E293B&radius=8&custom_title=Public%20Contribution%20Activity%20(Last%2031%20Days)"
-        alt="Manohar25-cmd's 31-Day GitHub Contribution Activity Graph"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manohar25-cmd&theme=github_dark&bg_color=101827&title_color=5EEAD4&text_color=E2E8F0&icon_color=7AA2F7&chart_color=5EEAD4&border_color=1E293B"
+        alt="Manohar25-cmd's GitHub Contribution Activity Graph and Profile Summary"
       />
     </a>
   </p>
 
+  <!-- DIRECT PROFILE & REPOSITORY ACTIVITY LINKS -->
   <p>
-    <sub>
-      If external analytics cards are temporarily rate-limited, view live activity directly on
-      <a href="https://github.com/Manohar25-cmd">github.com/Manohar25-cmd</a> and
-      <a href="https://github.com/Manohar25-cmd?tab=repositories">Public Repositories</a>.
-    </sub>
+    <a href="https://github.com/Manohar25-cmd">
+      <img src="https://img.shields.io/badge/Contribution%20Graph-View%20on%20GitHub-101827?style=flat-square&logo=github&logoColor=5EEAD4&labelColor=0B1020" alt="View Live Contribution Graph on GitHub" />
+    </a>
+    <a href="https://github.com/Manohar25-cmd?tab=repositories">
+      <img src="https://img.shields.io/badge/Public%20Repositories-Browse%20All-101827?style=flat-square&logo=git&logoColor=7AA2F7&labelColor=0B1020" alt="Browse All Public Repositories" />
+    </a>
   </p>
 
 </div>
@@ -235,17 +234,23 @@ Milestones dynamically computed from verified public GitHub repositories, commit
 
 <div align="center">
 
-  <a href="https://github.com/Manohar25-cmd">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Manohar25-cmd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=12"
-      alt="Manohar25-cmd's Dynamic GitHub Profile Trophies"
-    />
-  </a>
+  <!-- DYNAMIC GITHUB TROPHIES (ACTIVE OFFICIAL COMMUNITY MIRROR) -->
+  <!-- Alternate official mirrors if ever needed: -->
+  <!-- https://github-profile-trophy-liard-delta.vercel.app/?username=Manohar25-cmd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=12 -->
+  <!-- https://github-profile-trophy-fork-two.vercel.app/?username=Manohar25-cmd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=12 -->
+  <p>
+    <a href="https://github.com/Manohar25-cmd?tab=achievements">
+      <img
+        src="https://github-profile-trophy-unserori.vercel.app/?username=Manohar25-cmd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=12"
+        alt="Manohar25-cmd's Dynamic GitHub Profile Trophies"
+      />
+    </a>
+  </p>
 
   <p>
-    <sub>
-      Fallback: <a href="https://github.com/Manohar25-cmd?tab=achievements">View GitHub Profile & Achievements on GitHub</a>
-    </sub>
+    <a href="https://github.com/Manohar25-cmd?tab=achievements">
+      <img src="https://img.shields.io/badge/GitHub%20Achievements-View%20on%20GitHub-101827?style=flat-square&logo=github&logoColor=BB9AF7&labelColor=0B1020" alt="View GitHub Profile and Achievements on GitHub" />
+    </a>
   </p>
 
 </div>
